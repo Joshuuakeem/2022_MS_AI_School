@@ -1,0 +1,22 @@
+train: ./dataset/train/images
+val: ./dataset/valid/images
+test: ./dataset/test/images
+
+names: ['big bus', 'big truck', 'bus-l-', 'bus-s-', 'car', 'mid truck', 
+        'small bus', 'small truck', 'truck-l-', 'truck-m-', 'truck-s-', 
+        'truck-xl-']
+# Classes
+names:
+  0: big bus
+  1: big truck
+  2: bus-l-
+  3: bus-s-
+  4: car
+  5: mid truck
+  6: small bus
+  7: small truck
+  8: truck-l-
+  9: truck-m-
+  10: truck-s-
+  11: truck-xl-
+
